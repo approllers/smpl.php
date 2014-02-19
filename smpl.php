@@ -1658,9 +1658,9 @@ function fio($input = array(), $title = '') {
 // connect to your database here (PDO setup)
 $args = array(
 			'host' => 'localhost',
-			'name' => 'armin_kdc',
-			'user' => 'armin_kdc',
-			'pass' => 'yG}m7,fD[hue'
+			'name' => '',
+			'user' => '',
+			'pass' => ''
 );
 $pdo = db_conn('mysql', $args);
 
