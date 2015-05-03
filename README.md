@@ -1,3 +1,2 @@
-Simple Micro PHP Library
-smpl.php
+Simple Micro PHP Library - smpl.php
 ========
